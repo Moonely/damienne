@@ -72,14 +72,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Damienne_calendar" },
+      { name: "description", content: "Damienne's Power BI Ascent creates a personalized 8-10 week Power BI learning roadmap." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Damienne_calendar" },
+      { property: "og:description", content: "Damienne's Power BI Ascent creates a personalized 8-10 week Power BI learning roadmap." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Damienne_calendar" },
+      { name: "twitter:description", content: "Damienne's Power BI Ascent creates a personalized 8-10 week Power BI learning roadmap." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/dc065785-5f5c-45c7-9ba5-5a3674da542f/id-preview-52b340d7--3d80168a-10d4-48ae-a5de-020d35fc8956.lovable.app-1778319129935.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/dc065785-5f5c-45c7-9ba5-5a3674da542f/id-preview-52b340d7--3d80168a-10d4-48ae-a5de-020d35fc8956.lovable.app-1778319129935.png" },
     ],
     links: [
       {
