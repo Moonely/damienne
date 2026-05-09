@@ -67,7 +67,7 @@ function Index() {
           </h1>
           <p className="text-lg md:text-xl text-primary-foreground/90 max-w-2xl leading-relaxed mb-8">
             Un calendrier doux, sans pression, conçu autour de tes cours d'anglais.
-            Pas de surcharge — juste une progression claire, des victoires régulières,
+            Pas de surcharge juste une progression claire, des victoires régulières,
             et un portefeuille concret au bout du chemin. Tu en es capable.
           </p>
 
