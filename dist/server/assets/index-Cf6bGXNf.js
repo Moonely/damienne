@@ -1,4 +1,4 @@
-import { r as reactExports, V as jsxRuntimeExports } from "./server-E9jZjAlz.js";
+import { r as reactExports, V as jsxRuntimeExports } from "./server-Ch7qBjEL.js";
 import "node:async_hooks";
 import "node:stream/web";
 import "node:stream";
@@ -3797,7 +3797,7 @@ function Index() {
         /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
         "avec Power BI."
       ] }),
-      /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-lg md:text-xl text-primary-foreground/90 max-w-2xl leading-relaxed mb-8", children: "Un calendrier doux, sans pression, conçu autour de tes cours d'anglais. Pas de surcharge — juste une progression claire, des victoires régulières, et un portefeuille concret au bout du chemin. Tu en es capable." }),
+      /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-lg md:text-xl text-primary-foreground/90 max-w-2xl leading-relaxed mb-8", children: "Un calendrier doux, sans pression, conçu autour de tes cours d'anglais. Pas de surcharge juste une progression claire, des victoires régulières, et un portefeuille concret au bout du chemin. Tu en es capable." }),
       /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex flex-wrap gap-4 items-center", children: [
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "rounded-2xl bg-white/15 backdrop-blur px-5 py-3", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "text-xs uppercase tracking-wider opacity-80", children: "Progression" }),
